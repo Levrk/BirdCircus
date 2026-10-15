@@ -1,7 +1,7 @@
 :root {
     --primary: #687AAD;   /* Main background */
     --secondary: #ffffff; /* High contrast text, borders, and hover states */
-    --tertiary: #888888;  /* Muted text and secondary borders */
+    --tertiary: #68AD78;  /* Muted text and secondary borders */
 }
 
 * { 

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "forza-horizon-4",
+    "title": "Forza Horizon 4",
+    "date": "2020-04-01",
+    "rating": 8.5,
+    "image": "forza-horizon-4.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Forza Horizon 4\n\n**Date Played:** April 2020 | **Rating:** 8.5/10 | **Genre:** Racing, Open World | **System:** Xbox | **Hours Played:** 28 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "the-witcher-3",
+    "title": "The Witcher 3",
+    "date": "2020-05-01",
+    "rating": 9.0,
+    "image": "the-witcher-3.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# The Witcher 3\n\n**Date Played:** May 2020 | **Rating:** 9.0/10 | **Genre:** Open World, RPG | **System:** Xbox | **Hours Played:** 82 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "skate-3",
+    "title": "Skate 3",
+    "date": "2020-06-01",
+    "rating": 8.5,
+    "image": "skate-3.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Skate 3\n\n**Date Played:** June 2020 | **Rating:** 8.5/10 | **Genre:** Skating, Action | **System:** Xbox | **Hours Played:** 41 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "breath-of-the-wild",
+    "title": "Breath of the Wild",
+    "date": "2021-12-01",
+    "rating": 9.0,
+    "image": "breath-of-the-wild.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Breath of the Wild\n\n**Date Played:** December 2021 | **Rating:** 9.0/10 | **Genre:** Open World | **System:** Nintendo Switch | **Hours Played:** 55 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "date": "2022-02-01",
+    "rating": 8.0,
+    "image": "stardew-valley.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Stardew Valley\n\n**Date Played:** February 2022 | **Rating:** 8.0/10 | **Genre:** Farming Sim | **System:** Nintendo Switch | **Hours Played:** 35 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "date": "2022-05-01",
+    "rating": 10.0,
+    "image": "elden-ring.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Elden Ring\n\n**Date Played:** May 2022 | **Rating:** 10.0/10 | **Genre:** Open World, Soulslike | **System:** Xbox, Steam Deck | **Hours Played:** 272 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "dark-souls-1",
+    "title": "Dark Souls 1",
+    "date": "2022-06-01",
+    "rating": 10.0,
+    "image": "dark-souls-1.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Dark Souls 1\n\n**Date Played:** June 2022 | **Rating:** 10.0/10 | **Genre:** Soulslike | **System:** Nintendo Switch, Steam Deck | **Hours Played:** 109 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "date": "2022-07-01",
+    "rating": 10.0,
+    "image": "hollow-knight.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Hollow Knight\n\n**Date Played:** July 2022 | **Rating:** 10.0/10 | **Genre:** Metroidvania, Soulslike | **System:** Nintendo Switch, Mac, Steam Deck | **Hours Played:** 243 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "the-binding-of-isaac",
+    "title": "The Binding of Isaac",
+    "date": "2022-09-01",
+    "rating": 9.5,
+    "image": "the-binding-of-isaac.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# The Binding of Isaac\n\n**Date Played:** September 2022 | **Rating:** 9.5/10 | **Genre:** Bullet Hell, Roguelike | **System:** Mac, Steam Deck | **Hours Played:** 79 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "dark-souls-3",
+    "title": "Dark Souls 3",
+    "date": "2022-10-01",
+    "rating": 10.0,
+    "image": "dark-souls-3.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Dark Souls 3\n\n**Date Played:** October 2022 | **Rating:** 10.0/10 | **Genre:** Soulslike | **System:** Xbox | **Hours Played:** 72 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "tetris-effect-connected",
+    "title": "Tetris Effect Connected",
+    "date": "2022-12-01",
+    "rating": 10.0,
+    "image": "tetris-effect-connected.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Tetris Effect Connected\n\n**Date Played:** December 2022 | **Rating:** 10.0/10 | **Genre:** Action, Puzzle, Arcade | **System:** Nintendo Switch | **Hours Played:** 50 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "a-short-hike",
+    "title": "A Short Hike",
+    "date": "2023-01-01",
+    "rating": 9.5,
+    "image": "a-short-hike.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# A Short Hike\n\n**Date Played:** January 2023 | **Rating:** 9.5/10 | **Genre:** Action | **System:** Retroid Pocket Flip 2, Steam Deck | **Hours Played:** 2 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "pokemon-sword",
+    "title": "Pokemon Sword",
+    "date": "2023-02-01",
+    "rating": 7.5,
+    "image": "pokemon-sword.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Pokemon Sword\n\n**Date Played:** February 2023 | **Rating:** 7.5/10 | **Genre:** RPG | **System:** Nintendo Switch | **Hours Played:** 36 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "sekiro",
+    "title": "Sekiro",
+    "date": "2023-03-01",
+    "rating": 10.0,
+    "image": "sekiro.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Sekiro\n\n**Date Played:** March 2023 | **Rating:** 10.0/10 | **Genre:** Soulslike | **System:** Steam Deck | **Hours Played:** 160 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "super-flight",
+    "title": "Super Flight",
+    "date": "2023-03-01",
+    "rating": 8.5,
+    "image": "super-flight.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Super Flight\n\n**Date Played:** March 2023 | **Rating:** 8.5/10 | **Genre:** Arcade, Simulation | **System:** Steam Deck | **Hours Played:** 6 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "no-mans-sky",
+    "title": "No Man’s Sky",
+    "date": "2023-03-01",
+    "rating": 8.0,
+    "image": "no-mans-sky.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# No Man’s Sky\n\n**Date Played:** March 2023 | **Rating:** 8.0/10 | **Genre:** Space Exploration, Survival | **System:** Steam Deck | **Hours Played:** 61 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "vampire-survivors",
+    "title": "Vampire Survivors",
+    "date": "2023-04-01",
+    "rating": 7.5,
+    "image": "vampire-survivors.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Vampire Survivors\n\n**Date Played:** April 2023 | **Rating:** 7.5/10 | **Genre:** Roguelite, Horde Survival | **System:** Mac, Steam Deck | **Hours Played:** 31 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "nioh",
+    "title": "Nioh",
+    "date": "2023-05-01",
+    "rating": 8.5,
+    "image": "nioh.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Nioh\n\n**Date Played:** May 2023 | **Rating:** 8.5/10 | **Genre:** Soulslike | **System:** Steam Deck | **Hours Played:** 67 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "dark-souls-2",
+    "title": "Dark Souls 2",
+    "date": "2023-06-01",
+    "rating": 10.0,
+    "image": "dark-souls-2.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Dark Souls 2\n\n**Date Played:** June 2023 | **Rating:** 10.0/10 | **Genre:** Soulslike | **System:** Steam Deck | **Hours Played:** 66 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "return-of-the-obra-dinn",
+    "title": "Return of the Obra Dinn",
+    "date": "2023-07-01",
+    "rating": 10.0,
+    "image": "return-of-the-obra-dinn.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Return of the Obra Dinn\n\n**Date Played:** July 2023 | **Rating:** 10.0/10 | **Genre:** Puzzle | **System:** Mac | **Hours Played:** 14 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "symphony-of-the-night",
+    "title": "Symphony of the Night",
+    "date": "2023-08-01",
+    "rating": 8.0,
+    "image": "symphony-of-the-night.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Symphony of the Night\n\n**Date Played:** August 2023 | **Rating:** 8.0/10 | **Genre:** Metroidvania | **System:** Miyoo Mini | **Hours Played:** 10 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "slay-the-spire",
+    "title": "Slay the Spire",
+    "date": "2023-09-01",
+    "rating": 8.5,
+    "image": "slay-the-spire.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Slay the Spire\n\n**Date Played:** September 2023 | **Rating:** 8.5/10 | **Genre:** Roguelike, Deckbuilder | **System:** Steam Deck | **Hours Played:** 38 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "remnant-2",
+    "title": "Remnant 2",
+    "date": "2023-11-01",
+    "rating": 8.0,
+    "image": "remnant-2.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Remnant 2\n\n**Date Played:** November 2023 | **Rating:** 8.0/10 | **Genre:** Soulslike, Third-Person Shooter | **System:** Steam Deck | **Hours Played:** 43 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "tiny-rogues",
+    "title": "Tiny Rogues",
+    "date": "2024-01-01",
+    "rating": 6.5,
+    "image": "tiny-rogues.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Tiny Rogues\n\n**Date Played:** January 2024 | **Rating:** 6.5/10 | **Genre:** Bullet Hell, Roguelite | **System:** Steam Deck | **Hours Played:** 16 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "american-truck-driving-sim",
+    "title": "American Truck Driving Sim",
+    "date": "2024-02-01",
+    "rating": 8.0,
+    "image": "american-truck-driving-sim.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# American Truck Driving Sim\n\n**Date Played:** February 2024 | **Rating:** 8.0/10 | **Genre:** Racing, Simulation | **System:** Mac | **Hours Played:** 43 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "balatro",
+    "title": "Balatro",
+    "date": "2024-03-01",
+    "rating": 10.0,
+    "image": "balatro.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Balatro\n\n**Date Played:** March 2024 | **Rating:** 10.0/10 | **Genre:** Roguelike, Deckbuilder | **System:** Mac, Steam Deck | **Hours Played:** 572 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "hylics-2",
+    "title": "Hylics 2",
+    "date": "2024-04-01",
+    "rating": 10.0,
+    "image": "hylics-2.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Hylics 2\n\n**Date Played:** April 2024 | **Rating:** 10.0/10 | **Genre:** Surreal, JRPG | **System:** Mac | **Hours Played:** 12 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "before-your-eyes",
+    "title": "Before Your Eyes",
+    "date": "2024-04-01",
+    "rating": 9.0,
+    "image": "before-your-eyes.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Before Your Eyes\n\n**Date Played:** April 2024 | **Rating:** 9.0/10 | **Genre:** Narrative | **System:** Mac | **Hours Played:** 2 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "post-void",
+    "title": "Post Void",
+    "date": "2024-04-01",
+    "rating": 8.0,
+    "image": "post-void.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Post Void\n\n**Date Played:** April 2024 | **Rating:** 8.0/10 | **Genre:** Roguelike, First-Person Shooter | **System:** Steam Deck | **Hours Played:** 19 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "hades-2",
+    "title": "Hades 2",
+    "date": "2024-05-01",
+    "rating": 9.5,
+    "image": "hades-2.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Hades 2\n\n**Date Played:** May 2024 | **Rating:** 9.5/10 | **Genre:** Roguelite | **System:** Mac, Steam Deck | **Hours Played:** 112 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "cyberpunk-2027",
+    "title": "CyberPunk 2027",
+    "date": "2024-05-01",
+    "rating": 9.5,
+    "image": "cyberpunk-2027.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# CyberPunk 2027\n\n**Date Played:** May 2024 | **Rating:** 9.5/10 | **Genre:** Open World, First-Person Shooter | **System:** Steam Deck | **Hours Played:** 55 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "bloodstained",
+    "title": "BloodStained",
+    "date": "2024-12-01",
+    "rating": 6.5,
+    "image": "bloodstained.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# BloodStained\n\n**Date Played:** December 2024 | **Rating:** 6.5/10 | **Genre:** Metroidvania | **System:** Steam Deck | **Hours Played:** 13 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "bomb-rush-cyberfunk",
+    "title": "Bomb Rush Cyberfunk",
+    "date": "2025-01-01",
+    "rating": 8.5,
+    "image": "bomb-rush-cyberfunk.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Bomb Rush Cyberfunk\n\n**Date Played:** January 2025 | **Rating:** 8.5/10 | **Genre:** Skating, Arcade | **System:** Steam Deck | **Hours Played:** 28 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "final-fantasy-3-3d-remake",
+    "title": "Final Fantasy 3 (3D Remake)",
+    "date": "2025-08-01",
+    "rating": 8.0,
+    "image": "final-fantasy-3-3d-remake.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Final Fantasy 3 (3D Remake)\n\n**Date Played:** August 2025 | **Rating:** 8.0/10 | **Genre:** JRPG | **System:** Miyoo Mini | **Hours Played:** 25 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "silk-song",
+    "title": "Silk Song",
+    "date": "2025-09-01",
+    "rating": 9.5,
+    "image": "silk-song.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Silk Song\n\n**Date Played:** September 2025 | **Rating:** 9.5/10 | **Genre:** Metroidvania | **System:** Mac | **Hours Played:** 144 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "valheim",
+    "title": "Valheim",
+    "date": "2025-11-01",
+    "rating": 8.5,
+    "image": "valheim.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Valheim\n\n**Date Played:** November 2025 | **Rating:** 8.5/10 | **Genre:** Survival, Sandbox | **System:** Mac | **Hours Played:** 43 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "sea-of-stars",
+    "title": "Sea of Stars",
+    "date": "2025-12-01",
+    "rating": 8.0,
+    "image": "sea-of-stars.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Sea of Stars\n\n**Date Played:** December 2025 | **Rating:** 8.0/10 | **Genre:** JRPG | **System:** Retroid Pocket Flip 2, Steam Deck | **Hours Played:** 35 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "shogun-showdown",
+    "title": "Shogun Showdown",
+    "date": "2026-02-01",
+    "rating": 8.0,
+    "image": "shogun-showdown.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Shogun Showdown\n\n**Date Played:** February 2026 | **Rating:** 8.0/10 | **Genre:** Turn-Based, Roguelite | **System:** Retroid Pocket Flip 2 | **Hours Played:** 15 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "path-of-exile-2",
+    "title": "Path of Exile 2",
+    "date": "2026-07-01",
+    "rating": 8.5,
+    "image": "path-of-exile-2.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Path of Exile 2\n\n**Date Played:** July 2026 | **Rating:** 8.5/10 | **Genre:** Action, RPG | **System:** PC | **Hours Played:** 162 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "control",
+    "title": "Control",
+    "date": "2026-07-01",
+    "rating": 9.0,
+    "image": "control.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Control\n\n**Date Played:** July 2026 | **Rating:** 9.0/10 | **Genre:** Action, Third-Person Shooter | **System:** PC | **Hours Played:** 11 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "chants-of-sennar",
+    "title": "Chants of Sennar",
+    "date": "2026-08-01",
+    "rating": 7.0,
+    "image": "chants-of-sennar.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Chants of Sennar\n\n**Date Played:** August 2026 | **Rating:** 7.0/10 | **Genre:** Puzzle | **System:** PC | **Hours Played:** 12 hours\n\nREVIEW INCOMPLETE"
+  },
+  {
+    "id": "space-marine-2",
+    "title": "Space Marine 2",
+    "date": "2026-09-01",
+    "rating": 8.5,
+    "image": "space-marine-2.png",
+    "snippet": "REVIEW INCOMPLETE",
+    "markdown": "# Space Marine 2\n\n**Date Played:** September 2026 | **Rating:** 8.5/10 | **Genre:** Action, Third-Person Shooter | **System:** PC | **Hours Played:** 12 hours\n\nREVIEW INCOMPLETE"
+  }
+]
