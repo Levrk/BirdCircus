@@ -1,0 +1,5 @@
+# Hades
+
+**Date Played:** September 2021 | **Rating:** 10.0/10 | **Genre:** Bullet Hell, Roguelite | **System:** Nintendo Switch | **Hours Played:** 135 hours
+
+Hades was my first indie game, the first time I took a step back from big budget games and realized that sometimes less is more. It showed me something obvious; that a visually compelling game has more to do with art style than it does with realistic lighting and textures. It also introduced me to the roguelike genre, something that would become a hobby within a hobby as I become addicted to the pattern of one more run. Everything about this game is perfect. Despite a setting full of gods and goddesses, the grounded narrative makes talking to NPCs between runs feel like it means something. The gameplay balances thoughtful buildcrafting and pattern recognition with pressing every button on the controller as fast as fucking possible. Where some games are addictive in a cheap candy type of way, this one earns it. It is hard to write about this game without being consumed by the urge to play it. There is not much more to say, Hades is incredible.

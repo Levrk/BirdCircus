@@ -16,29 +16,61 @@ body {
     color: var(--secondary);
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 13px;
-    padding: 100px;
+    height: 100vh;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    padding: 32px 48px 56px;
 }
 
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 32px;
+    gap: 20px;
+    width: 100%;
+    max-width: 1680px;
+    flex-shrink: 0;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
     border-bottom: 2px solid var(--secondary);
     padding-bottom: 12px;
 }
 
-header > div {
+.music-player {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 12px;
+    flex: 1;
+    min-width: 0;
+}
+
+.music-player h1 {
+    min-width: 0;
+    overflow: hidden;
+    font-size: clamp(12px, 1.2vw, 20px);
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.review-controls {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    gap: 6px;
+}
+
+#audio-player {
+    display: none;
 }
 
 select, button {
     background: var(--primary);
     color: var(--secondary);
     border: 1px solid var(--secondary);
-    padding: 6px 10px;
+    padding: 6px 8px;
     font-family: inherit;
     cursor: pointer;
 }
@@ -50,24 +82,31 @@ button:hover, select:hover {
 
 .layout {
     display: grid;
-    grid-template-columns: 1fr 280px;
-    gap: 48px;
-    align-items: start;
-}
-
-@media (max-width: 900px) {
-    .layout { grid-template-columns: 1fr; }
+    grid-template-columns: minmax(0, 1fr) 220px;
+    grid-template-rows: minmax(0, 1fr);
+    gap: 32px;
+    flex: 1;
+    width: 100%;
+    max-width: 1680px;
+    min-height: 0;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 /* FEED */
 .feed-section {
+    display: grid;
+    grid-template-rows: minmax(0, 1fr) auto;
     min-width: 0;
+    min-height: 0;
 }
 
 #feed {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 32px;
+    grid-template-rows: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+    min-height: 0;
 }
 
 #pagination {
@@ -75,7 +114,7 @@ button:hover, select:hover {
     justify-content: center;
     flex-wrap: wrap;
     gap: 8px;
-    margin-top: 32px;
+    margin-top: 12px;
 }
 
 #pagination button:disabled {
@@ -86,17 +125,26 @@ button:hover, select:hover {
 
 .review-item img {
     width: 100%;
-    aspect-ratio: 1/1;
+    height: 100%;
     object-fit: cover;
     border: 1px solid var(--secondary);
     cursor: pointer;
     display: block;
-    margin-bottom: 8px;
+}
+
+.review-image-container {
+    position: relative;
+    flex: 1;
+    min-height: 0;
+    margin-bottom: 6px;
 }
 
 .review-item {
     width: 80%;
     justify-self: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
 }
 
 .review-meta {
@@ -114,11 +162,6 @@ button:hover, select:hover {
 .review-date {
     color: var(--tertiary);
     font-size: 11px;
-    margin-bottom: 8px;
-}
-
-.review-text {
-    color: var(--tertiary);
 }
 
 /* SIDEBAR */
@@ -143,6 +186,43 @@ button:hover, select:hover {
     height: 48px;
     object-fit: cover;
     border: 1px solid var(--tertiary);
+}
+
+/* TICKER */
+#snippet-ticker {
+    position: fixed;
+    z-index: 2;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    background: var(--secondary);
+    color: var(--primary);
+    opacity: 0;
+    visibility: hidden;
+}
+
+#snippet-ticker.visible {
+    opacity: 1;
+    visibility: visible;
+}
+
+.snippet-ticker-track {
+    display: flex;
+    width: max-content;
+    white-space: nowrap;
+    animation: ticker-scroll 24s linear infinite;
+}
+
+.snippet-ticker-track span {
+    padding-right: 64px;
+}
+
+@keyframes ticker-scroll {
+    to { transform: translateX(-50%); }
 }
 
 /* MODAL */
@@ -175,3 +255,42 @@ button:hover, select:hover {
 
 #modal-body h1, #modal-body h2, #modal-body h3 { margin: 16px 0 8px 0; }
 #modal-body p { margin-bottom: 12px; color: var(--tertiary); }
+
+@media (max-width: 800px) {
+    body {
+        padding: 20px 20px 56px;
+    }
+
+    .layout {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    header {
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    .music-player {
+        flex-basis: 100%;
+    }
+
+    .music-player h1 {
+        font-size: 14px;
+    }
+
+    .review-controls {
+        flex-wrap: wrap;
+    }
+
+    #sidebar {
+        display: none;
+    }
+
+    #feed {
+        gap: 8px;
+    }
+
+    .review-item {
+        width: 95%;
+    }
+}
