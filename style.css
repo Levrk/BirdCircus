@@ -12,6 +12,11 @@
 }
 
 body {
+    --feed-column-gap: 14px;
+    --review-card-limit: min(80vw, calc(33.333dvh - 148px));
+    --site-content-width: calc(
+        3 * var(--review-card-limit) + 2 * var(--feed-column-gap) + 252px
+    );
     background: var(--primary);
     color: var(--secondary);
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -29,14 +34,13 @@ header {
     justify-content: space-between;
     align-items: center;
     gap: 20px;
-    width: 100%;
-    max-width: 1680px;
+    width: 100vw;
+    max-width: none;
     flex-shrink: 0;
     margin-bottom: 20px;
-    margin-right: auto;
-    margin-left: auto;
+    margin-left: calc(50% - 50vw);
     border-bottom: 2px solid var(--secondary);
-    padding-bottom: 12px;
+    padding: 0 48px 12px;
 }
 
 .music-player {
@@ -87,7 +91,7 @@ button:hover, select:hover {
     gap: 32px;
     flex: 1;
     width: 100%;
-    max-width: 1680px;
+    max-width: min(1680px, var(--site-content-width));
     min-height: 0;
     margin-right: auto;
     margin-left: auto;
@@ -105,8 +109,11 @@ button:hover, select:hover {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-template-rows: repeat(3, minmax(0, 1fr));
-    column-gap: 14px;
+    column-gap: var(--feed-column-gap);
     row-gap: 22px;
+    width: 100%;
+    max-width: calc(3 * var(--review-card-limit) + 2 * var(--feed-column-gap));
+    margin-inline: auto;
     min-height: 0;
 }
 
@@ -143,7 +150,7 @@ button:hover, select:hover {
 }
 
 .review-item {
-    width: min(80%, calc(33.333dvh - 148px));
+    width: 100%;
     justify-self: center;
     display: flex;
     flex-direction: column;
@@ -280,11 +287,14 @@ button:hover, select:hover {
 
     .layout {
         grid-template-columns: minmax(0, 1fr);
+        max-width: calc(3 * var(--review-card-limit) + 2 * 8px);
     }
 
     header {
         gap: 8px;
         flex-wrap: wrap;
+        padding-right: 20px;
+        padding-left: 20px;
     }
 
     .music-player {
@@ -304,11 +314,12 @@ button:hover, select:hover {
     }
 
     #feed {
+        --feed-column-gap: 8px;
         column-gap: 8px;
         row-gap: 14px;
     }
 
     .review-item {
-        width: min(95%, calc(33.333dvh - 148px));
+        width: 100%;
     }
 }
