@@ -1,154 +1,145 @@
 [
   {
     "id": "returnal",
+    "type": "Game",
     "title": "Returnal",
     "date": "2026-07-01",
     "rating": 9.5,
-    "image": "returnal.png",
     "snippet": "3D action platformer roguelike bullet hell. If you think that is too many genres to comfortably fit into one game you ...",
     "markdown": "# Returnal\n\n**Date Played:** July 2026 | **Rating:** 9.5/10 | **Genre:** Roguelike, Action | **System:** PC | **Hours Played:** 46 hours\n\n3D action platformer roguelike bullet hell. If you think that is too many genres to comfortably fit into one game you are wrong. The story is Alien meets Interstellar, but also I haven’t seen Alien so that might be wrong. You can tell from watching 2 seconds of gameplay that this game is something special. It is pure action with each moment of gameplay containing dozens of enemies, each vomiting their own array of colorful projectiles at Selene as she zips through lovecraftian worlds sliding in and out of combat with quick air dashes and laser sword slashes. The gunplay is superb, the enemies are well designed if not quite varied enough, and the story is told through a good blend of environmental winks and esoteric cutscenes. I had looked forward to playing this game for about 5 years since first watching this video by Jacob Geller, and after finally getting a PC strong enough to play it I was not disappointed."
   },
   {
     "id": "final-fantasy-tactics",
+    "type": "Game",
     "title": "Final Fantasy Tactics",
     "date": "2026-09-01",
     "rating": 9.5,
-    "image": "final-fantasy-tactics.png",
     "snippet": "Damn I can’t believe this game was made almost 30 years ago. Despite missing the fully animated cutscenes of the recent ...",
     "markdown": "# Final Fantasy Tactics\n\n**Date Played:** September 2026 | **Rating:** 9.5/10 | **Genre:** Tactical RPG, JRPG | **System:** Retroid Pocket Flip 2, RG SP | **Hours Played:** 50 hours\n\nDamn I can’t believe this game was made almost 30 years ago. Despite missing the fully animated cutscenes of the recent remake, the original holds up exceptionally well. The class system made character upgrades rewarding (up to a certain point), and I was shocked to find a plot as complex and intriguing as any I have found in gaming. It was actually my first real foray into this genre and left me eager to try out some similar titles. While the difficulty was crushing at times (I did occasionally abuse save state), scraping my way through that final fight was incredible. I will never forget the sacrifices made by MungoTina and QuailForce, nor forgive Lord Orlandu for going berzerk and trying to kill me at the last second."
   },
   {
     "id": "resident-evil-2-remake",
+    "type": "Game",
     "title": "Resident Evil 2 (Remake)",
     "date": "2023-03-01",
     "rating": 9.0,
-    "image": "resident-evil-2-remake.png",
     "snippet": "First and only Resident Evil game I have played. While I don't think this series is really my thing in terms of ...",
     "markdown": "# Resident Evil 2 (Remake)\n\n**Date Played:** March 2023 | **Rating:** 9.0/10 | **Genre:** Survival Horror, Third-Person Shooter | **System:** Steam Deck | **Hours Played:** 9 hours\n\nFirst and only Resident Evil game I have played. While I don't think this series is really my thing in terms of gameplay, I loved my time with this one. MR. X is the scariest video game villain I have ever had the pleasure of running away from."
   },
   {
     "id": "hades",
+    "type": "Game",
     "title": "Hades",
     "date": "2021-09-01",
     "rating": 10.0,
-    "image": "hades.png",
     "snippet": "Hades was my first indie game, the first time I took a step back from big budget games and realized that sometimes less ...",
     "markdown": "# Hades\n\n**Date Played:** September 2021 | **Rating:** 10.0/10 | **Genre:** Bullet Hell, Roguelite | **System:** Nintendo Switch | **Hours Played:** 135 hours\n\nHades was my first indie game, the first time I took a step back from big budget games and realized that sometimes less is more. It showed me something obvious; that a visually compelling game has more to do with art style than it does with realistic lighting and textures. It also introduced me to the roguelike genre, something that would become a hobby within a hobby as I become addicted to the pattern of one more run. Everything about this game is perfect. Despite a setting full of gods and goddesses the grounded narrative makes talking to NPCs between runs feel like it means something. The game play balances thoughtful buildcrafting and pattern recognition with pressing every button on the controller as fast as fucking possible. Where some games are addictive in a cheap candy type of way, this one earns it. It is hard to write about this game without being consumed by the urge to play it. There is not much more to say, Hades is incredible."
   },
   {
     "id": "risk-of-rain-2",
+    "type": "Game",
     "title": "Risk of Rain 2",
     "date": "2022-11-01",
     "rating": 7.5,
-    "image": "risk-of-rain-2.png",
     "snippet": "I get why people love this game, but it didn’t quite click with me. I usually favor roguelikes with some level of meta ...",
     "markdown": "# Risk of Rain 2\n\n**Date Played:** November 2022 | **Rating:** 7.5/10 | **Genre:** Third-Person Shooter, Roguelike | **System:** Nintendo Switch | **Hours Played:** 10 hours\n\nI get why people love this game, but it didn’t quite click with me. I usually favor roguelikes with some level of meta progression and no class system, this is not that. I also didn’t love the gunplay or the graphics, which is kinda damning. I also like fully exploring every corner of a level to maximize my power before moving forward, which contrasts with ROR2’s unique difficulty scaling system. At every step of the way this game’s design clashed with the way I wanted to play it. Does this mean I am bad? Does this mean the game is bad? I would say no to both."
   },
   {
     "id": "super-hot",
+    "type": "Game",
     "title": "Super Hot",
     "date": "2024-04-01",
     "rating": 8.0,
-    "image": "super-hot.png",
     "snippet": "I have never seen a John Wick movie but I imagine they go something like this. Few games have made me feel as cool as ...",
     "markdown": "# Super Hot\n\n**Date Played:** April 2024 | **Rating:** 8.0/10 | **Genre:** First-Person Shooter | **System:** Steam Deck | **Hours Played:** 4 hours\n\nI have never seen a John Wick movie but I imagine they go something like this. Few games have made me feel as cool as this one. I also appreciated the short run time. It is an awesome concept, executed to perfection, and ending on a high note."
   },
   {
     "id": "squeekross",
+    "type": "Game",
     "title": "Squeekross",
     "date": "2026-03-01",
     "rating": 7.0,
-    "image": "squeekross.png",
     "snippet": "I like to make the mouse have a good house so he can be happy. I like to treat him like a special boy. I think it's a ...",
     "markdown": "# Squeekross\n\n**Date Played:** March 2026 | **Rating:** 7.0/10 | **Genre:** Puzzle | **System:** Retroid Pocket Flip 2 | **Hours Played:** nan hours\n\nI like to make the mouse have a good house so he can be happy. I like to treat him like a special boy. I think it's a fun game because the mouse gets to wear hats."
   },
   {
     "id": "well-dweller",
+    "type": "Game",
     "title": "Well Dweller",
     "date": "2026-10-01",
     "rating": 9.0,
-    "image": "well-dweller.png",
     "snippet": "It is hard to review this game without talking about hollowknight. Well Dweller does enough to stand out, but not ...",
     "markdown": "# Well Dweller\n\n**Date Played:** October 2026 | **Rating:** 9.0/10 | **Genre:** Metroidvania | **System:** PC, Retroid Pocket Flip 2 | **Hours Played:** 14 hours\n\nIt is hard to review this game without talking about hollowknight. Well Dweller does enough to stand out, but not enough to fully escape the obvious comparisons. while it may fall short of team cherry's atmosphere and gruling combat, It distinguishes itself through deep puzzle platforming and a cast of adorable creatures. I was drawn to this game after hearing it described by Giant Bomb as \"silksong but nice\" and after 100 percenting this game in about 13 hours I think the comparison rings true. I think some of this kindness is great, but it does at times go to far in encouraging the player to engage with systems which trivialize combat and exploration. I really wish trinket slots weren't so easily found. The ability to equip most of my trinkets at once ruined any sense of buildcrafting. The bosses were so beautifully grotesque but most of them only took me 1 or 2 attempts. I think this game would have been a 10/10 with a few more balancing adjustements, but I loved it regardless. The menagerie of platforming mechanics left me feeling like my solution to any given platforming problem was truly my own. They were also intuitive enough that I felt confident running full speed through an array of spikes knowing I could likely swing, bounce, or float my way to safety by the seat of my pants."
   },
   {
     "id": "mario-kart-deluxe-8",
+    "type": "Game",
     "title": "Mario Kart Deluxe 8",
     "date": "2022-04-01",
     "rating": 8.5,
-    "image": "mario-kart-deluxe-8.png",
     "snippet": "Mario Kart is a great multiplayer game for non gamers. It is easy to control, and the rubber banding mechanics mean ...",
     "markdown": "# Mario Kart Deluxe 8\n\n**Date Played:** April 2022 | **Rating:** 8.5/10 | **Genre:** Racing | **System:** Nintendo Switch | **Hours Played:** 30 hours\n\nMario Kart is a great multiplayer game for non gamers. It is easy to control, and the rubber banding mechanics mean skill level won’t hold you back from having a good time. Outside of the simple grand-prixs the game is lacking in content, additional maps are locked behind DLC and additional game modes lack much thought. Regardless, the game is something special. The courses are some of the best the series has ever had, and the driving mechanics are simple but rewarding. Mario Kart is quantity over quality and style over substances, it does what it does exceptionally well and that is enough."
   },
   {
-    "id": "tcg-card-shop-simulator",
-    "title": "TCG Card Shop Simulator",
-    "date": "2024-10-01",
-    "rating": 6.0,
-    "image": "tcg-card-shop-simulator.png",
-    "snippet": "Pretty solid simulator slop. I like the fact you can rip packs and I appreciate the workshop support. Ultimately I ...",
-    "markdown": "# TCG Card Shop Simulator\n\n**Date Played:** October 2024 | **Rating:** 6.0/10 | **Genre:** Simulation, Management | **System:** Mac | **Hours Played:** 30 hours\n\nPretty solid simulator slop. I like the fact you can rip packs and I appreciate the workshop support. Ultimately I think this game is only fun if you are somebody who dreams of running a tcg shop (Duh). I haven’t played since this hit 1.0 but honestly I doubt I will return. It was a good time waster but not much more."
-  },
-  {
     "id": "skyrim",
+    "type": "Game",
     "title": "Skyrim",
     "date": "2020-11-01",
     "rating": 10.0,
-    "image": "skyrim.png",
     "snippet": "The brilliance of Skyrim is difficult to overstate. Few have spent time in its vast enchanting world and not found a ...",
     "markdown": "# Skyrim\n\n**Date Played:** November 2020 | **Rating:** 10.0/10 | **Genre:** Open World, RPG | **System:** Xbox, Steam Deck | **Hours Played:** 104 hours\n\nThe brilliance of Skyrim is difficult to overstate. Few have spent time in its vast enchanting world and not found a piece of themselves stuck therein. While I may have first played it on my own in 2020, it was a world I was familiar with from time spent passing a controller back and forth at a friend’s house in 2012. I always knew of it as this mind blowing digitization of a feeling I had only gotten from dungeons and dragons. The world of Skyrim feels alive in a way that no other game has replicated even 15 years later. The sheer quantity of interesting content makes this game as dense as a black hole, without ever feeling like quality over quantity. After over a hundred hours I still feel like a newcomer in Tamriel. I have had some issues with getting mods setup otherwise I would have played much more of this game."
   },
   {
     "id": "the-incident-at-galley-house",
+    "type": "Game",
     "title": "The Incident at Galley House",
     "date": "2026-08-01",
     "rating": 8.5,
-    "image": "the-incident-at-galley-house.png",
     "snippet": "This game is a spooky who-done-it gone supernatural with incredible pacing. It has compelling characters and a ...",
     "markdown": "# The Incident at Galley House\n\n**Date Played:** August 2026 | **Rating:** 8.5/10 | **Genre:** Puzzle | **System:** Mac | **Hours Played:** 12 hours\n\nThis game is a spooky who-done-it gone supernatural with incredible pacing. It has compelling characters and a mechanical hook that helps it stand out despite an arguably forgettable visual style. I found myself getting exponentially more invested over the course of my roughly 10 hour playthrough, and playing it alongside my girlfriend solidified this as an awesome experience."
   },
   {
     "id": "crab-champions",
+    "type": "Game",
     "title": "Crab Champions",
     "date": "2023-12-01",
     "rating": 8.0,
-    "image": "crab-champions.png",
     "snippet": "This is everything a rogue-like should be: fast, frantic, begging for one more run. It leans heavy on gameplay, and ...",
     "markdown": "# Crab Champions\n\n**Date Played:** December 2023 | **Rating:** 8.0/10 | **Genre:** Third-Person Shooter, Roguelike | **System:** Steam Deck | **Hours Played:** 53 hours\n\nThis is everything a rogue-like should be: fast, frantic, begging for one more run. It leans heavy on gameplay, and doesn't take itself too seriously. I love the fact that you are a crab, and the vibrant colors are easy on the eyes (even if the art just looks like unreal store assets). What really makes this thing shine is the movement. Chaining slides and jumps adds a layer of depth that keeps things engaging. The satisfying gameplay was enough to keep me chasing achievements for well over 50hrs. I think after about 65 hours I am all done on this one until it comes out of early access. Can't wait to reach victory island in 1.0."
   },
   {
     "id": "fields-of-mistria",
+    "type": "Game",
     "title": "Fields of Mistria",
     "date": "2026-08-01",
     "rating": 8.5,
-    "image": "fields-of-mistria.png",
     "snippet": "This is the perfect cozy game. The characters are so well written on multiple occasions I found myself running over to ...",
     "markdown": "# Fields of Mistria\n\n**Date Played:** August 2026 | **Rating:** 8.5/10 | **Genre:** Farming Sim | **System:** PC | **Hours Played:** 49 hours\n\nThis is the perfect cozy game. The characters are so well written on multiple occasions I found myself running over to my girlfriend because I just needed her to see the charming thing somebody had just done or said. Each system is a near perfect balance of complexity, although I do think this balance is what ultimately makes the game grow stale at a certain point. No one system is deep enough to fully grab my attention, so I ended up bouncing between activities happily until I felt like I had gotten what I needed from the game and moved on. I won’t hold that against Fields of Mistria. I think even a farming sim is meant to be set aside eventually, and this one certainly did enough to stand out. Between the lovable characters and rpg(lite) upgrade system and spells, this deserves to be recognized as more than just a stardew clone."
   },
   {
     "id": "fatum-betula",
+    "type": "Game",
     "title": "Fatum Betula",
     "date": "2023-02-01",
     "rating": 7.5,
-    "image": "fatum-betula.png",
     "snippet": "This was a weird ass game with a very unique surreal horror vibe. I played through this with Elias and we were having ...",
     "markdown": "# Fatum Betula\n\n**Date Played:** February 2023 | **Rating:** 7.5/10 | **Genre:** Surreal | **System:** Nintendo Switch | **Hours Played:** 2 hours\n\nThis was a weird ass game with a very unique surreal horror vibe. I played through this with Elias and we were having enough fun to replay it for all of the different endings."
   },
   {
     "id": "assassins-creed-odyssey",
+    "type": "Game",
     "title": "Assassin's Creed Odyssey",
     "date": "2020-03-01",
     "rating": 8.5,
-    "image": "assassins-creed-odyssey.png",
     "snippet": "This was my pandemic game. Truly the perfect world to be set loose in at a time when I was stuck inside. The plot was ...",
     "markdown": "# Assassin's Creed Odyssey\n\n**Date Played:** March 2020 | **Rating:** 8.5/10 | **Genre:** Open World, RPG | **System:** Xbox | **Hours Played:** 242 hours\n\nThis was my pandemic game. Truly the perfect world to be set loose in at a time when I was stuck inside. The plot was mediocre and the combat was repetitive, but galavanting through mediterranean came to define my memories of early lock down. The open sea and vast number of islands to explore were compelling enough that I completed 100% of it, even minor objectives. It did not hurt that this was my first modern open world game, so simply moving from checkpoint to checkpoint didn't get stale even after well over 200 hours. The ancient greek lore certainly sweetened the deal, as like many others of my generation I grew up obsessed with Percy Jackson. My views on this game have certainly adjusted as I explore more of what gaming has to offer, but I will always have a soft spot for Oddysey."
   },
   {
     "id": "animal-well",
+    "type": "Game",
     "title": "Animal Well",
     "date": "2026-04-01",
     "rating": 10.0,
-    "image": "animal-well.png",
     "snippet": "This was truly a unique experience. The lonely, mysterious setting is mirrored perfectly in the gameplay. No NPC or ...",
     "markdown": "# Animal Well\n\n**Date Played:** April 2026 | **Rating:** 10.0/10 | **Genre:** Metroidvania, Puzzle | **System:** Retroid Pocket Flip 2 | **Hours Played:** 28 hours\n\nThis was truly a unique experience. The lonely, mysterious setting is mirrored perfectly in the gameplay. No NPC or popup tutorial will show you how to conquer obstacles, or direct you in your exploration. Each new tool feels like an open-ended puzzle. Late into the game I was still learning new ways to utilize tools I had received in it's opening hours. The feeling of unraveling these mysteries is like nothing I have felt before. It takes the mind blowing moments of a puzzle game and fuzes it with a joys of a precision platformer letting you take ownership for your successes in ways neither genre can accomplish on it's own. Rarely do I know an hour into a game that it will be one of my all time favorites. Rarer still does it end up surpassing these expectations."
   }

@@ -28,6 +28,12 @@ header {
     padding-bottom: 12px;
 }
 
+header > div {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
 select, button {
     background: var(--primary);
     color: var(--secondary);
@@ -54,12 +60,29 @@ button:hover, select:hover {
 }
 
 /* FEED */
+.feed-section {
+    min-width: 0;
+}
+
 #feed {
     display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 32px;
 }
-#feed.col-1 { grid-template-columns: 1fr; }
-#feed.col-3 { grid-template-columns: repeat(3, 1fr); }
+
+#pagination {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 32px;
+}
+
+#pagination button:disabled {
+    background: var(--secondary);
+    color: var(--primary);
+    cursor: default;
+}
 
 .review-item img {
     width: 100%;

@@ -12,18 +12,21 @@
     <header>
         <h1>Stuff</h1>
         <div>
+            <button id="type-filter" type="button" aria-label="Filter by type: all">[ TYPE: ALL ]</button>
             <select id="sort-select">
                 <option value="date-desc">DATE (NEWEST)</option>
                 <option value="date-asc">DATE (OLDEST)</option>
                 <option value="rating-desc">RATING (HIGH)</option>
                 <option value="rating-asc">RATING (LOW)</option>
             </select>
-            <button id="col-toggle">[ 1 COL ]</button>
         </div>
     </header>
 
     <div class="layout">
-        <main id="feed" class="col-1"></main>
+        <div class="feed-section">
+            <main id="feed"></main>
+            <nav id="pagination" aria-label="Review pages"></nav>
+        </div>
         <aside id="sidebar"></aside>
     </div>
 
