@@ -1,8 +1,19 @@
-* { box-sizing: border-box; margin: 0; padding: 0; border-radius: 0 !important; }
+:root {
+    --primary: #687AAD;   /* Main background */
+    --secondary: #ffffff; /* High contrast text, borders, and hover states */
+    --tertiary: #888888;  /* Muted text and secondary borders */
+}
+
+* { 
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+    border-radius: 0 !important; 
+}
 
 body {
-    background: #0d0d0d;
-    color: #fff;
+    background: var(--primary);
+    color: var(--secondary);
     font-family: monospace;
     font-size: 13px;
     padding: 24px;
@@ -13,22 +24,22 @@ header {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 32px;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid var(--secondary);
     padding-bottom: 12px;
 }
 
 select, button {
-    background: #0d0d0d;
-    color: #fff;
-    border: 1px solid #fff;
+    background: var(--primary);
+    color: var(--secondary);
+    border: 1px solid var(--secondary);
     padding: 6px 10px;
     font-family: monospace;
     cursor: pointer;
 }
 
 button:hover, select:hover {
-    background: #fff;
-    color: #0d0d0d;
+    background: var(--secondary);
+    color: var(--primary);
 }
 
 .layout {
@@ -54,7 +65,7 @@ button:hover, select:hover {
     width: 100%;
     aspect-ratio: 1/1;
     object-fit: cover;
-    border: 1px solid #fff;
+    border: 1px solid var(--secondary);
     cursor: pointer;
     display: block;
     margin-bottom: 8px;
@@ -73,7 +84,7 @@ button:hover, select:hover {
 .review-title:hover { text-decoration: underline; }
 
 .review-date {
-    color: #888;
+    color: var(--tertiary);
     font-size: 11px;
     margin-bottom: 8px;
 }
@@ -96,21 +107,21 @@ button:hover, select:hover {
     cursor: pointer;
 }
 
-.sidebar-item:hover img { border-color: #fff; }
+.sidebar-item:hover img { border-color: var(--secondary); }
 .sidebar-item:hover span { text-decoration: underline; }
 
 .sidebar-item img {
     width: 48px;
     height: 48px;
     object-fit: cover;
-    border: 1px solid #444;
+    border: 1px solid var(--tertiary);
 }
 
 /* MODAL */
 #modal {
     position: fixed;
     top: 0; left: 0; width: 100vw; height: 100vh;
-    background: rgba(0,0,0,0.9);
+    background: rgba(0, 0, 0, 0.9);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -119,8 +130,8 @@ button:hover, select:hover {
 #modal.hidden { display: none; }
 
 .modal-box {
-    background: #0d0d0d;
-    border: 2px solid #fff;
+    background: var(--primary);
+    border: 2px solid var(--secondary);
     width: 100%;
     max-width: 700px;
     max-height: 85vh;
