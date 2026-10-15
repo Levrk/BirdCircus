@@ -1,0 +1,138 @@
+* { box-sizing: border-box; margin: 0; padding: 0; border-radius: 0 !important; }
+
+body {
+    background: #0d0d0d;
+    color: #fff;
+    font-family: monospace;
+    font-size: 13px;
+    padding: 24px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 12px;
+}
+
+select, button {
+    background: #0d0d0d;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 6px 10px;
+    font-family: monospace;
+    cursor: pointer;
+}
+
+button:hover, select:hover {
+    background: #fff;
+    color: #0d0d0d;
+}
+
+.layout {
+    display: grid;
+    grid-template-columns: 1fr 280px;
+    gap: 48px;
+    align-items: start;
+}
+
+@media (max-width: 900px) {
+    .layout { grid-template-columns: 1fr; }
+}
+
+/* FEED */
+#feed {
+    display: grid;
+    gap: 32px;
+}
+#feed.col-1 { grid-template-columns: 1fr; }
+#feed.col-3 { grid-template-columns: repeat(3, 1fr); }
+
+.review-item img {
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border: 1px solid #fff;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.review-meta {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.review-title {
+    cursor: pointer;
+}
+.review-title:hover { text-decoration: underline; }
+
+.review-date {
+    color: #888;
+    font-size: 11px;
+    margin-bottom: 8px;
+}
+
+.review-text {
+    color: #ccc;
+}
+
+/* SIDEBAR */
+#sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.sidebar-item {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.sidebar-item:hover img { border-color: #fff; }
+.sidebar-item:hover span { text-decoration: underline; }
+
+.sidebar-item img {
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+    border: 1px solid #444;
+}
+
+/* MODAL */
+#modal {
+    position: fixed;
+    top: 0; left: 0; width: 100vw; height: 100vh;
+    background: rgba(0,0,0,0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+#modal.hidden { display: none; }
+
+.modal-box {
+    background: #0d0d0d;
+    border: 2px solid #fff;
+    width: 100%;
+    max-width: 700px;
+    max-height: 85vh;
+    overflow-y: auto;
+    padding: 24px;
+    position: relative;
+}
+
+#modal-close {
+    position: absolute;
+    top: 16px; right: 16px;
+}
+
+#modal-body h1, #modal-body h2, #modal-body h3 { margin: 16px 0 8px 0; }
+#modal-body p { margin-bottom: 12px; color: #ccc; }

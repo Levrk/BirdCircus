@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reviews</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>REVIEWS</h1>
+        <div>
+            <select id="sort-select">
+                <option value="date-desc">DATE (NEWEST)</option>
+                <option value="date-asc">DATE (OLDEST)</option>
+                <option value="rating-desc">RATING (HIGH)</option>
+                <option value="rating-asc">RATING (LOW)</option>
+            </select>
+            <button id="col-toggle">[ 1 COL ]</button>
+        </div>
+    </header>
+
+    <div class="layout">
+        <main id="feed" class="col-1"></main>
+        <aside id="sidebar"></aside>
+    </div>
+
+    <div id="modal" class="hidden">
+        <div class="modal-box">
+            <button id="modal-close">[X]</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

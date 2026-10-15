@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "date": "2026-03-15",
+    "rating": 9,
+    "image": "cyberpunk-2077.png",
+    "snippet": "Night City is an incredible technical achievement. The verticality and atmosphere are unmatched.",
+    "markdown": "# Cyberpunk 2077\n\n**Date:** 2026-03-15 | **Rating:** 9/10\n\nNight City is an incredible technical achievement. The verticality and atmosphere are unmatched."
+  },
+  {
+    "id": "hades-ii",
+    "title": "Hades II",
+    "date": "2026-01-10",
+    "rating": 10,
+    "image": "hades-ii.png",
+    "snippet": "Melinoë's spellcasting mechanics add an entirely new tactical layer to the combat loop.",
+    "markdown": "# Hades II\n\n**Date:** 2026-01-10 | **Rating:** 10/10\n\nMelinoë's spellcasting mechanics add an entirely new tactical layer to the combat loop."
+  }
+]
