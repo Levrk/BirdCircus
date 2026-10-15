@@ -1,7 +1,7 @@
 :root {
-    --primary: #687AAD;   /* Main background */
-    --secondary: #ffffff; /* High contrast text, borders, and hover states */
-    --tertiary: #68AD78;  /* Muted text and secondary borders */
+    --primary: #F8DCB4;   /* Main background */
+    --secondary: #EF4141; /* High contrast text, borders, and hover states */
+    --tertiary: #EF4141;  /* Muted text and secondary borders */
 }
 
 * { 
@@ -14,9 +14,9 @@
 body {
     background: var(--primary);
     color: var(--secondary);
-    font-family: monospace;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 13px;
-    padding: 24px;
+    padding: 100px;
 }
 
 header {
@@ -33,7 +33,7 @@ select, button {
     color: var(--secondary);
     border: 1px solid var(--secondary);
     padding: 6px 10px;
-    font-family: monospace;
+    font-family: inherit;
     cursor: pointer;
 }
 
@@ -90,7 +90,7 @@ button:hover, select:hover {
 }
 
 .review-text {
-    color: #ccc;
+    color: var(--tertiary);
 }
 
 /* SIDEBAR */
@@ -121,7 +121,7 @@ button:hover, select:hover {
 #modal {
     position: fixed;
     top: 0; left: 0; width: 100vw; height: 100vh;
-    background: rgba(0, 0, 0, 0.9);
+    background: var(--tertiary);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -146,4 +146,4 @@ button:hover, select:hover {
 }
 
 #modal-body h1, #modal-body h2, #modal-body h3 { margin: 16px 0 8px 0; }
-#modal-body p { margin-bottom: 12px; color: #ccc; }
+#modal-body p { margin-bottom: 12px; color: var(--tertiary); }
